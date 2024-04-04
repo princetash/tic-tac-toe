@@ -5,9 +5,13 @@ This is a simple implementation of the classic Tic Tac Toe game using Python's T
 **Table of Contents**
 
 Introduction
+
 Features
+
 Installation
+
 Usage
+
 Contributing
 
 **Introduction**
